@@ -38,3 +38,13 @@ We went through the whole experience and also found several positives along the 
   - The ‘human touch’ is definitely present in the profile builder, it was generally nice to use
 - General coolness
   - The platform 
+
+
+.
+.
+.
+.
+.
+.
+.
+
