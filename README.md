@@ -2,10 +2,8 @@
 ## Supre Duper Client
 
 ### Authors
-Juan Ramirez
-
-
-#### Februrary 2022
+#### Juan Ramirez
+Februrary 2022
 
 
 # Introduction
